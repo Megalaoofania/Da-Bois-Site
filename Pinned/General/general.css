@@ -1,0 +1,35 @@
+body {
+    font-family: Verdana, sans-serif;
+  }
+html {
+    background-color: lightgreen;
+}
+.buttons {
+		background: whitesmoke;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+}
+.buttons:hover {
+    background: lightblue;
+}
+.images {
+    height: 50%;
+}
+.pfp {
+    height: 45%
+}
+.PinText {
+    display: inline-flex;
+    height: 20%;
+    padding-right: 100px;
+}
+.text {
+    display: inline-block;
+}
+.video {
+    height: 45%;
+}
+.emoji {
+    height: 18%;
+}
